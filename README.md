@@ -1,40 +1,79 @@
 # Hi there 👋, I'm Daniyal Subhani
 
-🌐 Web Developer | 🧠 Lifelong Learner | ⚙️ Exploring Tech
+🚀 **Web Developer | Tech Explorer | Lifelong Learner**
+
+As a detail-oriented full-stack developer, I craft reliable backend systems and elegant user experiences. I focus on clean code, deep architectural thinking, and scalable APIs — all while learning and evolving with every project.
 
 ---
 
-## 🔧 Tech Stack
+### 📍 About Me
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/ShadCN_UI-010101?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu-b3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIGZpbGw9IiMwMDAiLz48L3N2Zz4=)
-![npm](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+- 🧠 Passionate about deep learning, not just shipping fast
+- 🧰 Building full-stack solutions from scratch (MERN, Next.js, Tailwind)
+- 🌐 Currently working on **Mercify** – a complete e-commerce platform
+- 🧾 Love working with REST APIs, JWT auth, DB design, Cloudinary
+- 🎯 Exploring modern UI systems like **ShadCN UI** and component libraries
 
 ---
 
-## 🚀 Projects
+### 🧰 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,shadcn,npm,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyal-subhani&show_icons=true&theme=react" alt="Daniyal's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-subhani&layout=compact&theme=react" alt="Top Languages">
+</p>
+
+---
+
+### 🔗 Projects Showcase
 
 - 🔗 [Mercify – E-commerce Web App](https://github.com/daniyal-subhani/mercify)  
-- 🧾 [Invoice Generator with PDF Export](https://github.com/daniyal-subhani/invoice-pdf-tool)
+  > Full-featured store with seller management, JWT auth, cart, orders & Cloudinary.
+
+- 🧾 [Invoice Generator with PDF Export](https://github.com/daniyal-subhani/invoice-pdf-tool)  
+  > A sleek tool to generate and download PDF invoices with custom items.
 
 ---
 
-## 📈 GitHub Stats
+### 📌 Highlights
 
-![Daniyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniyal-subhani&show_icons=true&theme=react)
+- 🏆 **Quick Learner:** Hands-on with modern tooling (Replit, Render, Railway)
+- 🔐 **JWT Auth:** Implemented secure access/refresh workflows with cookies
+- 🔗 **API-first Dev:** Designed scalable routes and clean controller architecture
+- 🎨 **UI/UX Focused:** Tailwind + ShadCN for a polished frontend feel
 
 ---
 
-## 📫 Contact
+### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-subhani-282b41246)  
-📩 **Email:** daniyalsubhani@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-subhani-282b41246)  
+📩 **Email:** daniyalsubhani@gmail.com  
+🌐 **Portfolio:** _(Coming Soon)_
+
+---
+
+### 🗂 Pinned Repositories (Recommended)
+
+- 🛍 `mercify` — Full-stack E-Commerce Platform  
+- 📄 `invoice-pdf-tool` — Smart invoice generator  
+- 🔒 `auth-boilerplate` — Cookie-based JWT Auth (Coming Soon)
+
+---
+
+### 📅 Contribution Graph
+
+<!-- GitHub contribution chart with dynamic stats -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyal-subhani&theme=react-dark)
+
+---
+
+> _“Craft software like a craftsman, not a factory worker.”_  
+> – Daniyal Subhani

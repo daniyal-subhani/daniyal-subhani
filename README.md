@@ -8,10 +8,10 @@ As a detail-oriented full-stack developer, I craft reliable backend systems and 
 
 ### 📍 About Me
 
-- 🧠 Passionate about deep learning, not just shipping fast
-- 🧰 Building full-stack solutions from scratch (MERN, Next.js, Tailwind)
-- 🌐 Currently working on **Mercify** – a complete e-commerce platform
-- 🧾 Love working with REST APIs, JWT auth, DB design, Cloudinary
+- 🧠 Passionate about deep learning, not just shipping fast  
+- 🧰 Building full-stack solutions from scratch (MERN, Next.js, Tailwind)  
+- 🌐 Currently working on **Mercify** – a complete e-commerce platform  
+- 🧾 Love working with REST APIs, JWT auth, DB design, Cloudinary  
 - 🎯 Exploring modern UI systems like **ShadCN UI** and component libraries
 
 ---
@@ -41,20 +41,26 @@ As a detail-oriented full-stack developer, I craft reliable backend systems and 
 - 🧾 [Invoice Generator with PDF Export](https://github.com/daniyal-subhani/invoice-pdf-tool)  
   > A sleek tool to generate and download PDF invoices with custom items.
 
+- 🛒 [GreenCart – E-commerce App](https://github.com/daniyal-subhani/greenCart)  
+  > A simple frontend store interface with product and cart logic.
+
+- 📝 [G-Blog – Blogging Platform](https://github.com/daniyal-subhani/G-Blog)  
+  > Lightweight blog CMS for publishing and managing articles.
+
 ---
 
 ### 📌 Highlights
 
-- 🏆 **Quick Learner:** Hands-on with modern tooling (Replit, Render, Railway)
-- 🔐 **JWT Auth:** Implemented secure access/refresh workflows with cookies
-- 🔗 **API-first Dev:** Designed scalable routes and clean controller architecture
+- 🏆 **Quick Learner:** Hands-on with modern tooling (Replit, Render, Railway)  
+- 🔐 **JWT Auth:** Implemented secure access/refresh workflows with cookies  
+- 🔗 **API-first Dev:** Designed scalable routes and clean controller architecture  
 - 🎨 **UI/UX Focused:** Tailwind + ShadCN for a polished frontend feel
 
 ---
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-subhani-282b41246)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-codes)  
 📩 **Email:** daniyalsubhani@gmail.com  
 🌐 **Portfolio:** _(Coming Soon)_
 
@@ -64,13 +70,14 @@ As a detail-oriented full-stack developer, I craft reliable backend systems and 
 
 - 🛍 `mercify` — Full-stack E-Commerce Platform  
 - 📄 `invoice-pdf-tool` — Smart invoice generator  
+- 🛒 `greenCart` — E-commerce site UI  
+- 📝 `G-Blog` — Minimalist blog CMS  
 - 🔒 `auth-boilerplate` — Cookie-based JWT Auth (Coming Soon)
 
 ---
 
 ### 📅 Contribution Graph
 
-<!-- GitHub contribution chart with dynamic stats -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyal-subhani&theme=react-dark)
 
 ---

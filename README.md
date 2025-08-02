@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Daniyal Subhani</h1>
+<h1>Hi there 👋, I'm Daniyal Subhani</h1>
 
-<p align="center">
+<p>
   <b>🚀 Full-Stack Web Developer | Tech Explorer | Clean Code Advocate</b><br>
   I craft elegant, scalable applications with robust backends and user-focused frontends — always learning, always building.
 </p>
@@ -20,7 +20,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,shadcn,git,github,npm,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,npm,vscode,postman" />
 </p>
 
 ---
@@ -47,20 +47,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyal-subhani&show_icons=true&theme=react&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-subhani&layout=compact&theme=react&hide_border=true" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyal-subhani&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&border_radius=12&custom_title=My%20GitHub%20Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-subhani&layout=compact&langs_count=8&theme=react&hide_border=true&border_radius=12&title_color=61dafb" height="180" />
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contributions Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniyal-subhani&theme=react-dark&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniyal-subhani&theme=react-dark&hide_border=true&area=true&line=61dafb&point=ffffff&radius=12" />
+</div>
+
 
 ---
 
@@ -74,6 +75,12 @@
 | 📝 [`G-Blog`](https://github.com/daniyal-subhani/G-Blog) | Minimalist CMS-style blog platform |
 | 💼 [`HireNest`](https://github.com/daniyal-subhani/HireNest) | Job portal web application |
 | 🔐 `auth-boilerplate` | Cookie-based auth boilerplate (Coming Soon) |
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daniyal-subhani&theme=onedark&row=1&column=6&no-bg=true&margin-w=10" />
+</div>
 
 ---
 

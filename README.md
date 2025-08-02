@@ -1,86 +1,94 @@
-# Hi there 👋, I'm Daniyal Subhani
+<h1 align="center">Hi there 👋, I'm Daniyal Subhani</h1>
 
-🚀 **Web Developer | Tech Explorer | Lifelong Learner**
-
-As a detail-oriented full-stack developer, I craft reliable backend systems and elegant user experiences. I focus on clean code, deep architectural thinking, and scalable APIs — all while learning and evolving with every project.
-
----
-
-### 📍 About Me
-
-- 🧠 Passionate about deep learning, not just shipping fast  
-- 🧰 Building full-stack solutions from scratch (MERN, Next.js, Tailwind)  
-- 🌐 Currently working on **Mercify** – a complete e-commerce platform  
-- 🧾 Love working with REST APIs, JWT auth, DB design, Cloudinary  
-- 🎯 Exploring modern UI systems like **ShadCN UI** and component libraries
-
----
-
-### 🧰 Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,shadcn,npm,git,github,vscode" />
+<p align="center">
+  <b>🚀 Full-Stack Web Developer | Tech Explorer | Clean Code Advocate</b><br>
+  I craft elegant, scalable applications with robust backends and user-focused frontends — always learning, always building.
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📍 About Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyal-subhani&show_icons=true&theme=react" alt="Daniyal's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-subhani&layout=compact&theme=react" alt="Top Languages">
+- 🧠 Lifelong learner with a passion for **deep understanding**, not just fast shipping  
+- 🧰 Building modern full-stack applications using **MERN**, **Next.js**, **Tailwind**, **TypeScript**  
+- 🌐 Currently working on **Mercify** – a full-scale e-commerce platform  
+- 🔐 Focused on **JWT auth**, **REST APIs**, **DB architecture**, **Cloudinary integrations**  
+- 🎨 Exploring modern UI ecosystems like **ShadCN UI**, **Framer Motion**, and design systems
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,shadcn,git,github,npm,vscode" />
 </p>
 
 ---
 
-### 🔗 Projects Showcase
+## 🔗 Projects Showcase
 
-- 🔗 [Mercify – E-commerce Web App](https://github.com/daniyal-subhani/mercify)  
-  > Full-featured store with seller management, JWT auth, cart, orders & Cloudinary.
-
-- 🧾 [Invoice Generator with PDF Export](https://github.com/daniyal-subhani/invoice-pdf-tool)  
-  > A sleek tool to generate and download PDF invoices with custom items.
-
-- 🛒 [GreenCart – E-commerce App](https://github.com/daniyal-subhani/greenCart)  
-  > A simple frontend store interface with product and cart logic.
-
-- 📝 [G-Blog – Blogging Platform](https://github.com/daniyal-subhani/G-Blog)  
-  > Lightweight blog CMS for publishing and managing articles.
+| Project | Description |
+|--------|-------------|
+| 🔗 [**Mercify**](https://github.com/daniyal-subhani/mercify) | Production-grade full-stack e-commerce app with cart, auth, dashboard, Cloudinary & seller workflows |
+| 🧾 [**Invoice PDF Tool**](https://github.com/daniyal-subhani/invoice-pdf-tool) | Elegant tool to create, preview, and download custom invoices in PDF format |
+| 🛒 [**GreenCart**](https://github.com/daniyal-subhani/greenCart) | React-based e-commerce UI with product listings and cart logic |
+| 📝 [**G-Blog**](https://github.com/daniyal-subhani/G-Blog) | Lightweight blog CMS for writing, editing, and managing content |
+| 🧠 [**HireNest**](https://github.com/daniyal-subhani/HireNest) | Full-stack job portal with authentication, resume uploads, and job filtering |
 
 ---
 
-### 📌 Highlights
+## 📌 Highlights
 
-- 🏆 **Quick Learner:** Hands-on with modern tooling (Replit, Render, Railway)  
-- 🔐 **JWT Auth:** Implemented secure access/refresh workflows with cookies  
-- 🔗 **API-first Dev:** Designed scalable routes and clean controller architecture  
-- 🎨 **UI/UX Focused:** Tailwind + ShadCN for a polished frontend feel
-
----
-
-### 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-codes)  
-📩 **Email:** daniyalsubhani@gmail.com  
-🌐 **Portfolio:** _(Coming Soon)_
+- 🧩 **Quick Learner:** Fast adoption of tools like Render, Railway, and Firebase  
+- 🔐 **Secure Auth:** Implemented **cookie-based access/refresh JWT auth**  
+- 🔗 **API-Centric:** Designed modular RESTful architecture with controller separation  
+- 🎨 **UI Excellence:** Leveraging **Tailwind**, **ShadCN**, and design tokens for polish  
+- 🧑‍💻 **Custom Hooks & State:** Built reusable components and managed global state using React Query and Redux
 
 ---
 
-### 🗂 Pinned Repositories (Recommended)
+## 📊 GitHub Stats
 
-- 🛍 `mercify` — Full-stack E-Commerce Platform  
-- 📄 `invoice-pdf-tool` — Smart invoice generator  
-- 🛒 `greenCart` — E-commerce site UI  
-- 📝 `G-Blog` — Minimalist blog CMS  
-- 🔒 `auth-boilerplate` — Cookie-based JWT Auth (Coming Soon)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyal-subhani&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-subhani&layout=compact&theme=react&hide_border=true" height="165" />
+</p>
 
 ---
 
-### 📅 Contribution Graph
+## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyal-subhani&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniyal-subhani&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🗂 Pinned Repositories
+
+| Name | Description |
+|------|-------------|
+| 🛍 [`mercify`](https://github.com/daniyal-subhani/mercify) | Full-stack scalable e-commerce system |
+| 📄 [`invoice-pdf-tool`](https://github.com/daniyal-subhani/invoice-pdf-tool) | Custom PDF invoice generator |
+| 🛒 [`greenCart`](https://github.com/daniyal-subhani/greenCart) | UI interface for an online store |
+| 📝 [`G-Blog`](https://github.com/daniyal-subhani/G-Blog) | Minimalist CMS-style blog platform |
+| 💼 [`HireNest`](https://github.com/daniyal-subhani/HireNest) | Job portal web application |
+| 🔐 `auth-boilerplate` | Cookie-based auth boilerplate (Coming Soon) |
+
+---
+
+## 📬 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniyal-codes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+- 📧 **Email:** daniyalsubhani@gmail.com  
+- 🌐 **Portfolio:** *(Coming Soon)*
 
 ---
 
 > _“Craft software like a craftsman, not a factory worker.”_  
-> – Daniyal Subhani
+> — *Daniyal Subhani*

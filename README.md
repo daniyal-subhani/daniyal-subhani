@@ -20,8 +20,16 @@
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,npm,pnpm,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,npm,pnpm,vscode,postman,redux,mysql,prisma" />
 </p>
+
+<p>
+    <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="40" height="40" alt="Framer Motion" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/clerk.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shadcnui.svg" width="40" height="40" />
+</p>
+
 
 ---
 

@@ -100,7 +100,7 @@
   </a>
 </p>
 
-- 📧 **Email:** daniyalsubhani@gmail.com  
+- 📧 **Email:** daniyalsubhani527@gmail.com  
 - 🌐 **Portfolio:** *(Coming Soon)*
 
 ---

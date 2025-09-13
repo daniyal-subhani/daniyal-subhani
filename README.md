@@ -33,16 +33,6 @@
 
 ---
 
-## 🔗 Projects Showcase
-
-| Project | Description |
-|--------|-------------|
-| 🔗 [**Mercify**](https://github.com/daniyal-subhani/mercify) | Production-grade full-stack e-commerce app with cart, auth, dashboard, Cloudinary & seller workflows |
-| 🛒 [**GreenCart**](https://github.com/daniyal-subhani/greenCart) | React-based e-commerce UI with product listings and cart logic |
-| 📝 [**G-Blog**](https://github.com/daniyal-subhani/G-Blog) | Lightweight blog CMS for writing, editing, and managing content |
-| 🧠 [**HireNest**](https://github.com/daniyal-subhani/HireNest) | Full-stack job portal with authentication, resume uploads, and job filtering |
-
----
 
 ## 📌 Highlights
 
@@ -80,17 +70,6 @@
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=daniyal-subhani&theme=react&hide_border=true" width="1000" />
 </div>
-
----
-
-## 🗂 Pinned Repositories
-
-| Name | Description |
-|------|-------------|
-| 🛍 [`mercify`](https://github.com/daniyal-subhani/mercify) | Full-stack scalable e-commerce system |
-| 🛒 [`greenCart`](https://github.com/daniyal-subhani/greenCart) | UI interface for an online store |
-| 📝 [`G-Blog`](https://github.com/daniyal-subhani/G-Blog) | Minimalist CMS-style blog platform |
-| 💼 [`HireNest`](https://github.com/daniyal-subhani/HireNest) | Job portal web application |  (comming soon) |
 
 ---
 

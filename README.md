@@ -20,6 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=daniyal-subhani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=daniyal-subhani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-subhani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-subhani&theme=dark&hide_border=false&layout=compact&langs_count=20)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=daniyal-subhani&theme=radical&no-frame=false&no-bg=false&margin-w=4)

@@ -1,5 +1,7 @@
 <h1>Hi there 👋, I'm Daniyal Subhani</h1>
 
+[![Daniyal's Top Languages](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight&layout=compact&cache_seconds=1800&v=jan2026)](https://github.com/daniyal-subhani)
+
 <p>
   <b>🚀 Full-Stack Web Developer | Tech Explorer | Clean Code Advocate</b><br>
   I craft elegant, scalable applications with robust backends and user-focused frontends — always learning, always building.
@@ -29,6 +31,9 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/clerk.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shadcnui.svg" width="40" height="40" />
 </p>
+---
+
+[![DANIYAL's GitHub stats](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight&cache_seconds=1800&v=2)](https://github.com/daniyal-subhani/github-readme-stats)
 
 
 ---

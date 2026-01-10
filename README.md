@@ -1,5 +1,6 @@
-<h1>Hi there 👋, I'm Daniyal Subhani</h1>
 
+<h1>Hi there 👋, I'm Daniyal Subhani</h1>
+(https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)
 [![Daniyal's Top Languages](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight&layout=compact&cache_seconds=1800&v=jan2026)](https://github.com/daniyal-subhani)
 
 <p>
@@ -35,8 +36,11 @@
 
 [![DANIYAL's GitHub stats](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight&cache_seconds=1800&v=2)](https://github.com/daniyal-subhani/github-readme-stats)
 
-
 ---
+[![Cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1D26-dOvFrNKT_FSqHUSxwupuGlAwL0rpRg&s)]
+---
+[![stats](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight)]
+----
 ![Top Languages](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight)
 https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app
 

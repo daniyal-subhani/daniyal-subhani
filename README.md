@@ -32,6 +32,16 @@
 
 
 ---
+![Top Languages](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight)
+https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app
+
+![My Stats...](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight)
+---
+![Top Langs](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight&v=1)
+
+---
+![Top Langs](https://github-readme-stats-7cmrcaau9-daniyal-subhanis-projects.vercel.app/api/top-langs/?username=daniyal-subhani&theme=tokyonight&cache_seconds=1800)
+---
 
 
 ## 📌 Highlights

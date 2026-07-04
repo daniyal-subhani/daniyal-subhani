@@ -72,7 +72,7 @@ Focused on engineering fundamentals: architecture, data flow, maintainability, a
 
 ![Streak](https://streak-stats.demolab.com/?user=daniyal-subhani&theme=dark)
 
-![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daniyal-subhani&layout=donut&langs_count=12)
+![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daniyal-subhani&layout=donut&langs_count=20)
 
 ---
 

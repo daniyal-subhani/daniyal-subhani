@@ -76,6 +76,29 @@ Focused on engineering fundamentals: architecture, data flow, maintainability, a
 
 ---
 
+## 📊 GitHub Snapshot
+
+![](https://raw.githubusercontent.com/daniyal-subhani/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/daniyal-subhani/github-stats-transparent/output/generated/languages.svg)
+
+---
+
+## 📝 Weekly Shipping Log
+
+<!--START_SECTION:waka-->
+
+```txt
+HTML              3 hrs 37 mins         █████████▒░░░░░░░░░░░░░░░   37.41 %
+Assembly          1 hr 55 mins          █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+10100               1 hr 45 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+JavaScript            33 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+GO               28 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+```
+
+<!--END_SECTION:waka-->
+
+---
+
 ## 📫 Contact
 
 - Email: **daniyalsubhani527@gmail.com**

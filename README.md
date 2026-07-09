@@ -106,5 +106,15 @@ GO               28 mins                █▒░░░░░░░░░░░�
 - X: https://x.com/DaniyalSubhani4
 
 ---
-
 > “If the system breaks at scale, it was never designed — it was guessed.”
+
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/daniyal-subhani">daniyal-subhani</a></i></p>
+

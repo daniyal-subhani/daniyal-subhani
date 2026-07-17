@@ -4,7 +4,7 @@
 </div>
 
 ###
-# <h1 data-importer="text" align="center">Daniyal Subhani</h1> 
+# <h1 align="center">DANIYAL SUBHANI ⚡</h1>
 **Full-Stack JavaScript / TypeScript Engineer**
 
 I build scalable, predictable web systems using modern JavaScript ecosystems.  
@@ -128,9 +128,8 @@ Focused on engineering fundamentals: architecture, data flow, maintainability, a
 
 ![Streak](https://streak-stats.demolab.com/?user=daniyal-subhani&theme=dark)
 
-![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daniyal-subhani&layout=donut&langs_count=20)
-
----
+![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daniyal-subhani&layout=compact&langs_count=20)
+![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daniyal-subhani&layout=pie&langs_count=20)
 
 ## 📊 GitHub Snapshot
 

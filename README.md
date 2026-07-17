@@ -3,9 +3,9 @@
   <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
+
 # <h1 align="center">DANIYAL SUBHANI ⚡</h1>
-**Full-Stack JavaScript / TypeScript Engineer**
+***Full-Stack JavaScript / TypeScript Engineer***
 
 I build scalable, predictable web systems using modern JavaScript ecosystems.  
 Focused on engineering fundamentals: architecture, data flow, maintainability, and performance — not just frameworks.

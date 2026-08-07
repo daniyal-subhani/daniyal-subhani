@@ -124,17 +124,9 @@ Focused on engineering fundamentals: architecture, data flow, maintainability, a
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.shion.dev/api?username=daniyal-subhani&theme=dark&hide_border=false)
-
-![Streak](https://streak-stats.demolab.com/?user=daniyal-subhani&theme=dark)
-
 ![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daniyal-subhani&layout=compact&langs_count=20&hide=html,css,scss)
-![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daniyal-subhani&layout=pie&langs_count=20&hide=html,css,scss)
 
-## 📊 GitHub Snapshot
 
-![](https://raw.githubusercontent.com/daniyal-subhani/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/daniyal-subhani/github-stats-transparent/output/generated/languages.svg)
 
 ---
 

@@ -143,7 +143,8 @@ GO               28 mins                █▒░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+---
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyal-subhani&theme=github-compact)](https://github.com/daniyal-subhani)
 ---
 
 ## 📫 Contact

@@ -4,7 +4,7 @@
 </div>
 
 
-# <h1 align="center">DANIYAL SUBHANI ⚡</h1>
+# <h1 align="center"><code style="font-family: Isometra;">DANIYAL SUBHANI ⚡</code></h1>
 ***Full-Stack JavaScript / TypeScript Engineer***
 
 I build scalable, predictable web systems using modern JavaScript ecosystems.  
@@ -126,36 +126,7 @@ Focused on engineering fundamentals: architecture, data flow, maintainability, a
 
 ![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daniyal-subhani&layout=compact&langs_count=20&hide=html,css,scss)
 
-
-
 ---
-
-## 📝 Weekly Shipping Log
-
-<!--START_SECTION:waka-->
-
-```txt
-HTML              3 hrs 37 mins         █████████▒░░░░░░░░░░░░░░░   37.41 %
-Assembly          1 hr 55 mins          █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-10100               1 hr 45 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
-JavaScript            33 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-GO               28 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-```
-
-<!--END_SECTION:waka-->
----
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyal-subhani&theme=github-compact)](https://github.com/daniyal-subhani)
----
-
-## 📫 Contact
-
-- Email: **daniyalsubhani527@gmail.com**
-- LinkedIn: https://linkedin.com/in/daniyal-codes  
-- X: https://x.com/DaniyalSubhani4
-
----
-> “If the system breaks at scale, it was never designed — it was guessed.”
-
 
 ### 💭 Dev Quote
 

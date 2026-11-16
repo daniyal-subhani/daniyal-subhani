@@ -1,13 +1,17 @@
 ###
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Display&weight=700&size=36&duration=1&pause=999999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=600&height=60&lines=DANIYAL+SUBHANI" alt="DANIYAL SUBHANI" />
   <br />
   <em><strong>Full-Stack JavaScript / TypeScript Engineer</strong></em>
 </div>
+
+---
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+
 
 
 I build scalable, predictable web systems using modern JavaScript ecosystems.  
